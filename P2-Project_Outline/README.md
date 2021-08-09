@@ -16,15 +16,15 @@ How it would work is to have a Massage Therapist make a profile with rates, loca
 3) Schedule: Users will be able to schedule a date and time for the service to arrive at their residence.
 
 ### Technologies
-Java
-Gradle
-Thymeleaf
-Junit Test Suite
-Web API
-MySql
-Hibernate
-Spring Boot
-BootStrap
+1) Java
+2) Gradle
+3) Thymeleaf
+4) Junit Test Suite
+5) Web API
+6) MySql
+7) Hibernate
+8) Spring Boot
+9) BootStrap
 
 ### What I'll Have to Learn
 We will try to incorporate the Google Maps API into our project. We believe that this will be one of the more difficult aspects. With our current experience we also don’t have the means to make a gorgeous looking UI for our site. We will learn Bootstrap to make a magnificent site. 
