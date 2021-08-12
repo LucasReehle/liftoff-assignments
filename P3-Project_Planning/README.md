@@ -7,8 +7,8 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-![Alt text](C:\Users\Lucas\Desktop\Liftoff\Wireframes?raw=true "Title")
-C:\Users\Lucas\Desktop\Liftoff\Wireframes
+![Alt text](.\Users\Lucas\Desktop\Liftoff\Wireframes?raw=true "Title")
+
 
 ### Project Tracker
 
