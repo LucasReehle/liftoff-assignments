@@ -22,8 +22,10 @@ Confirm appointment
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Team: https://trello.com/b/wBjo7LMR/liftoff
+Personal: https://trello.com/b/WMu24CZq/liftoff
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+<!-- needs to be changed to liftoff's provided account -->
+https://github.com/Lancastergraham/UberMassage
