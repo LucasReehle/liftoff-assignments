@@ -13,6 +13,9 @@ Create Account
 Home Page
 ![WF 2](https://user-images.githubusercontent.com/69994660/129125592-ecad0a33-ec45-4159-a258-ceffee33109c.png)
 
+Search Page
+![Wireframe-Search](https://user-images.githubusercontent.com/69994660/129630097-8e2dff99-a8d2-4cdd-8e12-987d1be55881.jpg)
+
 Create an appointment
 ![WF 3](https://user-images.githubusercontent.com/69994660/129125594-bdf28cbd-4e5f-46fd-b2ee-c4b6e6a95dff.png)
 
