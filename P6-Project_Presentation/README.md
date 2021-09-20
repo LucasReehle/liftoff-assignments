@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Uber Massage Presentation.pdf](https://github.com/LucasReehle/liftoff-assignments/files/7196955/Uber.Massage.Presentation.pdf)
